@@ -1,5 +1,5 @@
 {
-  "name": "gan",
+  "name": "gran",
   "version": "1.0.0",
   "description": "Grunt Angular Node",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "author": "vavikk",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.0"
+    "express": "^4.13.0",
+    "jasmine-node": "^1.14.5"
   }
 }
