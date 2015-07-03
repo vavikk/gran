@@ -1,4 +1,4 @@
-A MEAN Stack Bolierplate, Starter Kit with Grunt and Jasmine
+# A MEAN Stack Bolierplate, Starter Kit with Grunt and Jasmine
 
 Run:
 
@@ -11,7 +11,7 @@ Then:
 ```
 grunt
 ```
-# To do
+## To do
 - [x] Start server with grunt
 - [ ] Start server with grunt mode 
 - [ ] Grunt Jasmine Integration
