@@ -1,0 +1,14 @@
+{
+  "name": "gan",
+  "version": "1.0.0",
+  "description": "Grunt Angular Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vavikk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.0"
+  }
+}
