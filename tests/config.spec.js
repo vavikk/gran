@@ -1,5 +1,6 @@
 (function() {
     "use strict";
+    
     describe("Configuration Setup", function() {
         it("should load local configuration", function(){
             var config = require('../server/config.js')();
