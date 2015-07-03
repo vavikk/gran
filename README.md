@@ -1,3 +1,5 @@
+A MEAN Stack Bolierplate, Starter Kit with Grunt and Jasmine
+
 Run:
 
 ```
